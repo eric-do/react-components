@@ -8,10 +8,6 @@ var GroceryList = (props) => (
   </ul>
 );
 
-// var GroceryListItem = (props) => (
-//   <li>{props.name}</li>
-// );
-
 class GroceryListItem extends React.Component {
   constructor(props) {
     super(props);
